@@ -5,6 +5,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+## Currenty used technologies
+
 <p align="left">
   <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
