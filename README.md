@@ -28,5 +28,5 @@
 <a href="https://dev.to/milantenk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="milantenk" height="30" width="30" /></a>
 <a href="https://twitter.com/milantenk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="milantenk" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/milan-tenk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="milan-tenk" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/milan-tenk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="milan-tenk" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/2614313/milan-tenk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="milan-tenk" height="30" width="30" /></a>
 </p>
