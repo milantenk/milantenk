@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milán</h1>
 <h3 align="center">A full stack developer from Budapest</h3>
 
-### Blogs posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-### Currently used technologies
 
 <p align="left">
   <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>
