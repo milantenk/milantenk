@@ -20,12 +20,14 @@
 
 ### Actively used technologies and frameworks
 
+<p>
 <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 <img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?&style=for-the-badge&logo=reactivex&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?&style=for-the-badge&logo=jasmine&logoColor=white"/>
 <img alt="ASP .NET Core" src="https://img.shields.io/badge/ASP.net%20Core%20-%2300AEFF.svg?&style=for-the-badge&logo=.net&logoColor=white"/>
+</p>
 
 ### Actively used tools
 
