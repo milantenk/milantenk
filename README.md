@@ -3,6 +3,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a basic environment with Jasmine to test pure JavaScript logic](https://dev.to/milantenk/setting-up-a-basic-environment-with-jasmine-to-test-pure-javascript-logic-2cai)
 - [The story behind my open-source Angular library](https://dev.to/milantenk/the-story-behind-ngx-interactive-paycard-579f)
 - [Deno - Angular Development Environment](https://dev.to/milantenk/deno-angular-development-environment-3ef1)
 - [Deno - Angular Stack Proof of Concept](https://dev.to/milantenk/deno-angular-stack-proof-of-concept-1df2)
